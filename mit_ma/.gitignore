@@ -1,0 +1,7 @@
+data
+result*
+imgs
+*.pdf
+.DS_Store
+*.md
+*.png
